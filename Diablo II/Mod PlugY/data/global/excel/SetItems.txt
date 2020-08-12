@@ -127,3 +127,7 @@ McAuley's Paragon	McAuley's Folly	cap	Cap	3	20	25	lpur	lpur						5	5000		mag%		3
 McAuley's Riprap	McAuley's Folly	vbt	Heavy Boots	7	20	20	lpur	lpur						5	5000		move3		40	40	att		100	100	str		5	5	dex		10	10																																																													0
 McAuley's Taboo	McAuley's Folly	vgl	Heavy Gloves	7	20	28	lpur	lpur						5	5000		ac		20	25	swing2		20	20	hp		40	40	dmg-pois	75	30	36																																																													0
 McAuley's Superstition	McAuley's Folly	bwn	Bone Wand	7	20	25	lpur	lpur						5	5000		dmg%	2	75	75	mana		25	25	manasteal		8	8	cast3		20	20	dmg-cold	50	25	75																																																									0
+Snake's Coil	Snake's Skin	mbl	Belt	7	4	8	cgrn	cgrn						5	5000	2	ac		6	12	balance2		20	20	light		3	3	res-all		15	15	gold%		100	100																	res-all		15	15					res-all		15	15																													0
+Snake's Scales	Snake's Skin	aar	Ancient Armor	7	31	35	cgrn	cgrn						5	5000	2	ac/lvl	48			str/lvl	3			dex/lvl	3			gethit-skill	92	12	2																					red-dmg%		10	10					red-dmg%		10	10																													0
+Snake's Skull	Snake's Skin	bhm	Bone Helm	7	18	21	cgrn	cgrn						5	5000	2	ac		15	30	sock		3	3	allskills		1	1	hp/lvl	12			mana/lvl	12																			allskills		1	1					allskills		1	1																													0
+Snake's Bite	Snake's Skin	xmg	Heavy Bracers	7	42	50	cgrn	cgrn						5	5000	2	ac		10	20	dmg-pois	250	325	325	lifesteal		10	10	manasteal		10	10	swing1		10	10																	swing1		10	10					swing1		10	10																													0
